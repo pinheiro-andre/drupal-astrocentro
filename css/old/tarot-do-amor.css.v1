@@ -1,0 +1,497 @@
+.page-oraculos-tarot-do-amor-gratis #content-wrap .content{
+	padding:10px 0;
+}
+.page-oraculos-tarot-do-amor-gratis #content-wrap .content > h1{
+	display:inline-block !important;
+	margin:20px 0 10px 0;
+}
+.page-oraculos-tarot-do-amor-gratis #content-wrap .content > h1 + p{
+	margin-bottom:5px;
+}
+
+#tarot-do-amor {
+	width:100%;
+	height:545px;
+	margin:0 auto;
+	/*padding-top:20px;*/
+	background-color:#ffffff;
+}
+#tarot-do-amor h3{
+	background:none !important;
+	width:100% !important;
+	color:#CB00B1 !important;
+	font-family:inherit !important;
+	text-align:center;
+}
+#tarot-do-amor h3+p{text-align:center;}
+
+#tarot-do-amor h4 {
+	/*text-align:center;*/
+	font-weight: 300;
+	margin-bottom:25px;
+}
+	
+#tarot-do-amor > ul#index_cards {
+	text-align:center;
+	width:100%;
+	height:100%;
+	position:relative;
+	padding-top:25px;
+	margin:0;
+}
+	
+#tarot-do-amor > ul#index_cards li {
+	background: #efc5ca;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2VmYzVjYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmMThlOTkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #efc5ca 0%, #f18e99 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#efc5ca), color-stop(100%,#f18e99));
+	background: -webkit-linear-gradient(top,  #efc5ca 0%,#f18e99 100%);
+	background: -o-linear-gradient(top,  #efc5ca 0%,#f18e99 100%);
+	background: -ms-linear-gradient(top,  #efc5ca 0%,#f18e99 100%);
+	background: linear-gradient(to bottom,  #efc5ca 0%,#f18e99 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efc5ca', endColorstr='#f18e99',GradientType=0 );
+			
+	width:180px;
+	height:290px;
+	display:block;
+	border:3px solid #fff;
+	padding:5px;
+	position:absolute;
+	left:205px;
+	
+	box-shadow: 3px 3px 7px rgba(50, 50, 50, 0.75);
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+	border-radius: 10px;
+	
+	transition: transform 500ms ease-out 0ms;
+	-webkit-transform-origin: 25% 100%;
+	-webkit-transition: -webkit-transform 500ms ease-out 0ms;
+	-moz-transform-origin: 25% 100%;
+	-moz-transition: -moz-transform 500ms ease-out 0ms;
+	-ms-transform-origin: 25% 100%;
+	-ms-transition: -ms-transform 500ms ease-out 0ms;
+}
+		
+#tarot-do-amor #card-1 {-webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg);}
+#tarot-do-amor #card-2 {-webkit-transform: rotate(-40deg); -moz-transform: rotate(-40deg); -ms-transform: rotate(-40deg);}
+#tarot-do-amor #card-3 {-webkit-transform: rotate(-35deg); -moz-transform: rotate(-35deg); -ms-transform: rotate(-35deg);}
+#tarot-do-amor #card-4 {-webkit-transform: rotate(-30deg); -moz-transform: rotate(-30deg); -ms-transform: rotate(-30deg);}
+#tarot-do-amor #card-5 {-webkit-transform: rotate(-25deg); -moz-transform: rotate(-25deg); -ms-transform: rotate(-25deg);}
+#tarot-do-amor #card-6 {-webkit-transform: rotate(-20deg); -moz-transform: rotate(-20deg); -ms-transform: rotate(-20deg);}
+#tarot-do-amor #card-7 {-webkit-transform: rotate(-15deg); -moz-transform: rotate(-15deg); -ms-transform: rotate(-15deg);}
+#tarot-do-amor #card-8 {-webkit-transform: rotate(-10deg); -moz-transform: rotate(-10deg); -ms-transform: rotate(-10deg);}
+#tarot-do-amor #card-9 {-webkit-transform: rotate(-5deg); -moz-transform: rotate(-5deg); -ms-transform: rotate(-5deg);}
+#tarot-do-amor #card-10 {-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -ms-transform: rotate(0deg);}
+#tarot-do-amor #card-11 {-webkit-transform: rotate(5deg); -moz-transform: rotate(5deg); -ms-transform: rotate(5deg);}
+#tarot-do-amor #card-12 {-webkit-transform: rotate(10deg); -moz-transform: rotate(10deg); -ms-transform: rotate(10deg);}
+#tarot-do-amor #card-13 {-webkit-transform: rotate(15deg); -moz-transform: rotate(15deg); -ms-transform: rotate(15deg);}
+#tarot-do-amor #card-14 {-webkit-transform: rotate(20deg); -moz-transform: rotate(20deg); -ms-transform: rotate(20deg);}
+#tarot-do-amor #card-15 {-webkit-transform: rotate(25deg); -moz-transform: rotate(25deg); -ms-transform: rotate(25deg);}
+#tarot-do-amor #card-16 {-webkit-transform: rotate(30deg); -moz-transform: rotate(30deg); -ms-transform: rotate(30deg);}
+#tarot-do-amor #card-17 {-webkit-transform: rotate(35deg); -moz-transform: rotate(35deg); -ms-transform: rotate(35deg);}
+#tarot-do-amor #card-18 {-webkit-transform: rotate(40deg); -moz-transform: rotate(40deg); -ms-transform: rotate(40deg);}
+#tarot-do-amor #card-19 {-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg);}
+#tarot-do-amor #card-20 {-webkit-transform: rotate(50deg); -moz-transform: rotate(50deg); -ms-transform: rotate(50deg);}
+#tarot-do-amor #card-21 {-webkit-transform: rotate(55deg); -moz-transform: rotate(55deg); -ms-transform: rotate(55deg);}
+#tarot-do-amor #card-22 {-webkit-transform: rotate(60deg); -moz-transform: rotate(60deg); -ms-transform: rotate(60deg);}
+	
+#tarot-do-amor #card-1, #tarot-do-amor #card-2, #tarot-do-amor #card-3, #tarot-do-amor #card-4, #tarot-do-amor #card-5, #tarot-do-amor #card-6, #tarot-do-amor #card-7, #tarot-do-amor #card-8, #tarot-do-amor #card-9, #tarot-do-amor #card-10, #tarot-do-amor #card-11, #tarot-do-amor #card-12, #tarot-do-amor #card-13, #tarot-do-amor #card-14, #tarot-do-amor #card-15, #tarot-do-amor #card-16, #tarot-do-amor #card-17, #tarot-do-amor #card-18, #tarot-do-amor #card-19, #tarot-do-amor #card-20, #tarot-do-amor #card-21, #tarot-do-amor #card-22{
+	z-index:1;
+}
+
+#tarot-do-amor #card-1:hover {
+	transform: translateY(-20px) rotate(-45deg);
+		-webkit-transform: translateY(-20px) rotate(-45deg);
+		-moz-transform: translateY(-20px) rotate(-45deg);
+		-ms-transform: translateY(-20px) rotate(-45deg);
+}
+#tarot-do-amor #card-2:hover {
+	transform: translateY(-20px) rotate(-40deg);
+		-webkit-transform: translateY(-20px) rotate(-40deg);
+		-moz-transform: translateY(-20px) rotate(-40deg);
+		-ms-transform: translateY(-20px) rotate(-40deg);
+}
+#tarot-do-amor #card-3:hover {
+	transform: translateY(-20px) rotate(-35deg);
+		-webkit-transform: translateY(-20px) rotate(-35deg);
+		-moz-transform: translateY(-20px) rotate(-35deg);
+		-ms-transform: translateY(-20px) rotate(-35deg);
+}
+#tarot-do-amor #card-4:hover {
+	transform: translateY(-20px) rotate(-30deg);
+		-webkit-transform: translateY(-20px) rotate(-30deg);
+		-moz-transform: translateY(-20px) rotate(-30deg);
+		-ms-transform: translateY(-20px) rotate(-30deg);
+}
+#tarot-do-amor #card-5:hover {
+	transform: translateY(-20px) rotate(-25deg);
+		-webkit-transform: translateY(-20px) rotate(-25deg);
+		-moz-transform: translateY(-20px) rotate(-25deg);
+		-ms-transform: translateY(-20px) rotate(-25deg);
+}
+#tarot-do-amor #card-6:hover {
+	transform: translateY(-20px) rotate(-20deg);
+		-webkit-transform: translateY(-20px) rotate(-20deg);
+		-moz-transform: translateY(-20px) rotate(-20deg);
+		-ms-transform: translateY(-20px) rotate(-20deg);
+}
+#tarot-do-amor #card-7:hover {
+	transform: translateY(-20px) rotate(-15deg);
+		-webkit-transform: translateY(-20px) rotate(-15deg);
+		-moz-transform: translateY(-20px) rotate(-15deg);
+		-ms-transform: translateY(-20px) rotate(-15deg);
+}
+#tarot-do-amor #card-8:hover {
+	transform: translateY(-20px) rotate(-10deg);
+		-webkit-transform: translateY(-20px) rotate(-10deg);
+		-moz-transform: translateY(-20px) rotate(-10deg);
+		-ms-transform: translateY(-20px) rotate(-10deg);
+}
+#tarot-do-amor #card-9:hover {
+	transform: translateY(-20px) rotate(-5deg);
+		-webkit-transform: translateY(-20px) rotate(-5deg);
+		-moz-transform: translateY(-20px) rotate(-5deg);
+		-ms-transform: translateY(-20px) rotate(-5deg);
+}
+#tarot-do-amor #card-10:hover {
+	transform: translateY(-20px) rotate(0deg);
+		-webkit-transform: translateY(-20px) rotate(0deg);
+		-moz-transform: translateY(-20px) rotate(0deg);
+		-ms-transform: translateY(-20px) rotate(0deg);
+}
+#tarot-do-amor #card-11:hover {
+	transform: translateY(-20px) rotate(5deg);
+		-webkit-transform: translateY(-20px) rotate(5deg);
+		-moz-transform: translateY(-20px) rotate(5deg);
+		-ms-transform: translateY(-20px) rotate(5deg);
+}
+#tarot-do-amor #card-12:hover {
+	transform: translateY(-20px) rotate(10deg);
+		-webkit-transform: translateY(-20px) rotate(10deg);
+		-moz-transform: translateY(-20px) rotate(10deg);
+		-ms-transform: translateY(-20px) rotate(10deg);
+}
+#tarot-do-amor #card-13:hover {
+	transform: translateY(-20px) rotate(15deg);
+		-webkit-transform: translateY(-20px) rotate(15deg);
+		-moz-transform: translateY(-20px) rotate(15deg);
+		-ms-transform: translateY(-20px) rotate(15deg);
+}
+#tarot-do-amor #card-14:hover {
+	transform: translateY(-20px) rotate(20deg);
+		-webkit-transform: translateY(-20px) rotate(20deg);
+		-moz-transform: translateY(-20px) rotate(20deg);
+		-ms-transform: translateY(-20px) rotate(20deg);
+}
+#tarot-do-amor #card-15:hover {
+	transform: translateY(-20px) rotate(25deg);
+		-webkit-transform: translateY(-20px) rotate(25deg);
+		-moz-transform: translateY(-20px) rotate(25deg);
+		-ms-transform: translateY(-20px) rotate(25deg);
+}
+#tarot-do-amor #card-16:hover {
+	transform: translateY(-20px) rotate(30deg);
+		-webkit-transform: translateY(-20px) rotate(30deg);
+		-moz-transform: translateY(-20px) rotate(30deg);
+		-ms-transform: translateY(-20px) rotate(30deg);
+}
+#tarot-do-amor #card-17:hover {
+	transform: translateY(-20px) rotate(35deg);
+		-webkit-transform: translateY(-20px) rotate(35deg);
+		-moz-transform: translateY(-20px) rotate(35deg);
+		-ms-transform: translateY(-20px) rotate(35deg);
+}
+#tarot-do-amor #card-18:hover {
+	transform: translateY(-20px) rotate(40deg);
+		-webkit-transform: translateY(-20px) rotate(40deg);
+		-moz-transform: translateY(-20px) rotate(40deg);
+		-ms-transform: translateY(-20px) rotate(40deg);
+}
+#tarot-do-amor #card-19:hover {
+	transform: translateY(-20px) rotate(45deg);
+		-webkit-transform: translateY(-20px) rotate(45deg);
+		-moz-transform: translateY(-20px) rotate(45deg);
+		-ms-transform: translateY(-20px) rotate(45deg);
+}
+#tarot-do-amor #card-20:hover {
+	transform: translateY(-20px) rotate(50deg);
+		-webkit-transform: translateY(-20px) rotate(50deg);
+		-moz-transform: translateY(-20px) rotate(50deg);
+		-ms-transform: translateY(-20px) rotate(50deg);
+}
+#tarot-do-amor #card-21:hover {
+	transform: translateY(-20px) rotate(55deg);
+		-webkit-transform: translateY(-20px) rotate(55deg);
+		-moz-transform: translateY(-20px) rotate(55deg);
+		-ms-transform: translateY(-20px) rotate(55deg);
+}
+#tarot-do-amor #card-22:hover {
+	transform: translateY(-20px) rotate(60deg);
+		-webkit-transform: translateY(-20px) rotate(60deg);
+		-moz-transform: translateY(-20px) rotate(60deg);
+		-ms-transform: translateY(-20px) rotate(60deg);
+}
+
+	
+#tarot-do-amor #card-1:hover,
+#tarot-do-amor #card-2:hover, 
+#tarot-do-amor #card-3:hover, 
+#tarot-do-amor #card-4:hover, 
+#tarot-do-amor #card-5:hover, 
+#tarot-do-amor #card-6:hover, 
+#tarot-do-amor #card-7:hover, 
+#tarot-do-amor #card-8:hover, 
+#tarot-do-amor #card-9:hover, 
+#tarot-do-amor #card-10:hover, 
+#tarot-do-amor #card-11:hover, 
+#tarot-do-amor #card-12:hover, 
+#tarot-do-amor #card-13:hover, 
+#tarot-do-amor #card-14:hover, 
+#tarot-do-amor #card-15:hover, 
+#tarot-do-amor #card-16:hover, #tarot-do-amor #card-17:hover, #tarot-do-amor #card-18:hover, #tarot-do-amor #card-19:hover, #tarot-do-amor #card-20:hover, #tarot-do-amor #card-21:hover, #tarot-do-amor #card-22:hover {
+	background:#9f0d5e;
+	overflow:hidden;
+}
+	
+/* Styling cards */
+#tarot-do-amor ul#index_cards li img {
+	margin-top:6px;
+	float:left;
+}
+
+#tarot-do-amor ul#index_cards li a {
+	display:block;
+	overflow:hidden;
+	height:100%;
+    text-decoration: none;
+    outline: none;
+	clear:both;
+	background:url(/sites/all/themes/astrocentro_br/images/etoileamour.png) repeat;
+}
+
+/*Chosen cards reveal*/
+#tarot-do-amor #readingcards {
+	position:relative;
+	z-index:100;
+	width:100%;
+	height:100%;
+}
+
+#tarot-do-amor .caption {
+	display: inline-block;
+	overflow: hidden;
+	position: relative;
+	width:100%;
+	padding:10px;
+	margin-top:50px;
+}
+
+#tarot-do-amor .caption > img {
+	display: block;
+	float:left;
+	margin-right:20px;
+	padding:5px;
+	
+	box-shadow: 3px 3px 7px rgba(50, 50, 50, 0.75);
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+	border-radius: 10px;
+	
+	border:3px solid #ffffff;
+}
+#tarot-do-amor .caption h4{
+	font-weight:bold;
+	margin-bottom:25px;
+	font-size:1.5em;
+}
+#tarot-do-amor .caption p {
+	font-size: 14px;
+	padding: 20px;
+	text-align:left;
+	line-height:1.5em;
+}
+
+/*button*/
+#content .button-moreinfos {
+	border:1px solid #ffffff;
+	background-color:#cb00b1;
+	padding:8px;
+	border-radius:5px;
+	width:100%;
+	color:#ffffff;
+	font-weight:bold;
+	cursor:pointer;
+	font-size:15px;
+}
+#content .button-moreinfos:hover {
+	border:1px solid #cb00b1;
+	background-color:#ffffff;
+	color:#cb00b1;
+}
+
+.messages .error{
+	/*display:none;*/
+}
+
+.page-oraculos-tarot-do-amor-gratis #content-wrap .content .final-step3 p{
+	text-align:center;
+}
+.page-oraculos-tarot-do-amor-gratis #content-wrap .content .final-step3{
+	padding:25px;
+}
+
+/*Popup form*/
+#fade {
+	display: none;
+	background: #ffffff;
+	position: fixed; left: 0; top: 0;
+	width: 100%; height: 100%;
+	opacity: .80;
+	z-index: 9999;
+}
+.content > .popup_block{
+	display: none;
+
+background: #ffffff;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmN2YzZWYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #ffffff 1%, #f7f3ef 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#f7f3ef));
+background: -webkit-linear-gradient(top,  #ffffff 1%,#f7f3ef 100%);
+background: -o-linear-gradient(top,  #ffffff 1%,#f7f3ef 100%);
+background: -ms-linear-gradient(top,  #ffffff 1%,#f7f3ef 100%);
+background: linear-gradient(to bottom,  #ffffff 1%,#f7f3ef 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f7f3ef',GradientType=0 );
+
+	padding: 20px;
+	border: 5px solid #d270c5;
+	float: left;
+	position: fixed;
+	top: 50%; left: 50%;
+	z-index: 99999;
+
+	-webkit-box-shadow: 0px 0px 20px #000;
+	-moz-box-shadow: 0px 0px 20px #000;
+	box-shadow: 0px 0px 20px #000;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.content > .popup_block > h4{
+	font-size:18px;
+	font-weeight:100;
+	color:#ce11b6;
+}
+
+.content > .popup_block > p{
+	font-size:14px;
+}
+img.close_bt {
+	float: right;
+	margin: -15px -15px 0 0;
+}
+
+*html #fade {position: absolute;}
+*html .popup_block {position: absolute;}
+
+/*Forms*/
+.content > .popup_block > form label{
+	font-weight:100 !important;
+	color:##929292;
+}
+
+@-moz-document url-prefix()
+{
+    #edit-tdm-birthdate, #edit-tdm-mail, #edit-tdm-name {
+        width:370px;
+    }
+}
+html > body #edit-tdm-birthdate,
+html > body #edit-tdm-mail,
+html > body #edit-tdm-name {
+    *width:375px;
+}
+
+.content > .popup_block > form .form-submit,
+form#astrocentro-br-app-taro-do-amor-step2-form .form-submit{
+	border:1px solid #ffffff;
+	background-color:#cb00b1;
+	padding:8px;
+	border-radius:5px;
+	width:100%;
+	color:#ffffff;
+	font-weight:bold;
+	cursor:pointer;
+	font-size:15px;
+}
+.content > .popup_block > form .form-submit:hover,
+form#astrocentro-br-app-taro-do-amor-step2-form .form-submit:hover{
+	border:1px solid #cb00b1;
+	background-color:#ffffff;
+	color:#cb00b1;
+}
+
+/*error form step 1*/
+.content > .popup_block .form-item-tdm-name span.LV_validation_message{
+	right:20px;
+	top:68px;
+}
+.content > .popup_block .form-item-tdm-mail span.LV_validation_message{
+	right:20px;
+	top:121px;
+}
+.content > .popup_block .form-item-tdm-birthdate span.LV_validation_message{
+	right:20px;
+	top:174px;
+}
+
+/*form step2*/
+div#tarot-do-amor > div#form-step2{padding:10px;}
+form#astrocentro-br-app-taro-do-amor-step2-form > div{position:relative;}
+form#astrocentro-br-app-taro-do-amor-step2-form > div > img{
+	float:left;
+	margin:0 20px 58px 0;
+	position:relative;
+}
+form#astrocentro-br-app-taro-do-amor-step2-form div.previsoes2014{margin-bottom:20px;}
+form#astrocentro-br-app-taro-do-amor-step2-form div.previsoes2014 h4{color:#cb00b1; font-weight:bold;}
+
+form#astrocentro-br-app-taro-do-amor-step2-form div.previsoes2014 h4,
+form#astrocentro-br-app-taro-do-amor-step2-form div.previsoes2014 p{
+	text-align:left;
+}
+
+form#astrocentro-br-app-taro-do-amor-step2-form + label{font-weight:bold; margin-bottom:3px;}
+
+form#astrocentro-br-app-taro-do-amor-step2-form div.previsoes2014 + label,
+form#astrocentro-br-app-taro-do-amor-step2-form .form-item-tdm-ddd,
+form#astrocentro-br-app-taro-do-amor-step2-form .form-submit{margin-left:150px;}
+
+form#astrocentro-br-app-taro-do-amor-step2-form .form-item-tdm-ddd{float:left; margin-right:20px;}
+form#astrocentro-br-app-taro-do-amor-step2-form .form-item-tdm-phone{float:left;}
+form#astrocentro-br-app-taro-do-amor-step2-form .form-required{display:none;}
+
+form#astrocentro-br-app-taro-do-amor-step2-form .form-submit{width:335px;}
+
+/*error form step 2*/
+form#astrocentro-br-app-taro-do-amor-step2-form .form-item-tdm-ddd span.LV_validation_message{
+	right:300px;
+	top:130px;
+}
+form#astrocentro-br-app-taro-do-amor-step2-form .form-item-tdm-phone span.LV_validation_message{
+	right:85px;
+	top:130px;
+}

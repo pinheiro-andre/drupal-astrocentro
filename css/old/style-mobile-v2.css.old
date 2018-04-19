@@ -1,0 +1,89 @@
+/***************************************************************************************************
+--- M E N U ---
+
+1.0.0 - sidebar menu
+    1.1.0 - .sidr -  width change
+
+2.0.0 - comments / red more ... (artile buttons)
+    2.1.0 - ul.links.inline li - place buttons site by site
+
+3.0.0 - main content
+    3.1.0 - #wrap - remove margin latel
+    3.2.0 - .node-teaser img / image size at posts (mobile categories)
+    3.3.0 - html / fix right gap (mobile)
+    3.4.0 - .call2action-mobile-1, .call2action-mobile-2 / style call2action and images in posts (mobile)
+    3.5.0 - .field-item.even img / style images in posts (mobile)
+
+4.0.0 - popup form mobile
+
+
+***************************************************************************************************/
+
+
+/* 1.0.0 - sidebar menu */
+/* 1.1.0 - .sidr -  width change */
+/* width change */
+.sidr {
+    width: 45% !important;
+}
+
+/* 2.0.0 - comments / red more ... (artile buttons) */
+/* 2.1.0 - ul.links.inline li */
+/* place buttons site by site */
+ul.links.inline li{
+    float: left;
+}
+
+/* 3.0.0 - main content */
+/* 3.1.0 - #wrap - remove margin latel */
+#wrap {
+    margin: 0px;
+}
+
+/* 3.2.0 - .node-teaser img / image size at posts (mobile categories) */
+.node-teaser img{
+	/*width: 96% !important;
+	padding: 5px !important;*/
+}
+
+/* 3.3.0 - html / fix right gap (mobile) */
+/*#wrap{
+    overflow-y: auto;
+}*/
+
+/* 3.4.0 - .call2action-mobile-1, .call2action-mobile-2 / style call2action and images in posts (mobile) */
+.call2action-mobile-1, .call2action-mobile-2{
+    margin-left: -4% !important;
+    width: 105%;
+}
+
+/* 3.5.0 - .field-item.even img / style images in posts (mobile) */
+/*.page-node #content-wrap img{
+    max-width: 200% !important;
+}
+.field-item.even img{
+    margin-left: -4%;
+    width: 105%;
+    border: 0px !important;
+    box-shadow: none !important;
+}*/
+
+/* 4.0.0 - popup form mobile */
+#block-astrocentro-br-app-astrocentro-br-landing-blogform{
+    display: none !important;
+}
+
+#astrocentro-br-landing-blogform-form .form-required{
+    display: none !important;
+}
+
+#popup input{
+    margin: 10px;
+}
+
+#astrocentro-br-landing-blogform-form input{
+    margin: 10px;
+    width: 90%;
+}
+
+
